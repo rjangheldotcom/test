@@ -94,8 +94,8 @@ jacocoTestReport {
 
 sonarqube {
 	properties {
-		property "sonar.projectName", "bnym"
-		property "sonar.projectKey", "bnym_analysis"
+		property "sonar.projectName", "bnympipeline"
+		property "sonar.projectKey", "bnympipeline_analysis"
 		property "sonar.projectDescription", "bnym-build"
 		property "sonar.sources", "src/main/java"
 		property "sonar.sourceEncoding", "UTF-8"
