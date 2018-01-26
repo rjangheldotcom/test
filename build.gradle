@@ -118,5 +118,3 @@ pmd{
 	ruleSetConfig = rootProject.resources.text.fromFile('etc/pmd/ruleset.xml')
   ignoreFailures = true
 }
-
-}
