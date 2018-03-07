@@ -94,12 +94,12 @@ jacocoTestReport {
 
 sonarqube {
 	properties {
-		property "sonar.projectName", "bnympipeline"
-		property "sonar.projectKey", "bnympipeline_analysis"
-		property "sonar.projectDescription", "bnym-build"
+		property "sonar.projectName", "altidemopipeline"
+		property "sonar.projectKey", ältidemopipeline_analysis"
+		property "sonar.projectDescription", "altidemo-build"
 		property "sonar.sources", "src/main/java"
 		property "sonar.sourceEncoding", "UTF-8"
-		property "sonar.host.url", "http://172.21.0.44:9000"
+		property "sonar.host.url", "http://172.21.0.15:9000"
 		property "sonar.login", "admin"
 		property "sonar.password", "admin"
 
