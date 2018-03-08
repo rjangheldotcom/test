@@ -95,7 +95,7 @@ jacocoTestReport {
 sonarqube {
 	properties {
 		property "sonar.projectName", "altidemopipeline"
-		property "sonar.projectKey", ältidemopipeline_analysis"
+		property "sonar.projectKey", "altidemopipeline_analysis"
 		property "sonar.projectDescription", "altidemo-build"
 		property "sonar.sources", "src/main/java"
 		property "sonar.sourceEncoding", "UTF-8"
